@@ -1,5 +1,4 @@
 
-// NAME: SHRAVAN DHAKAL
 #include <iostream>
 
 int randomIndex(int k) { srand(time(NULL)); return rand() % k;}
