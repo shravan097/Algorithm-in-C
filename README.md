@@ -9,8 +9,8 @@ Here is a quick summary of what you can see here:
     * Runs on linear time in expectations.
 - **Graph Algorithm**
   * Depth First Search/ Breadth First Search if used Queue
-  * Djikstra Algorithm Implementations
+  * Djikstra Shortest Path
   
 - **Useful Algorithm**
-  * Rabin-Karp Algorithm. Has better runtime in expectation than naive algorithm. KMP Algorithm is even more better than this.
+  * Rabin-Karp String Match. Has better runtime in expectation than naive algorithm. KMP Algorithm is even more better than this.
 
