@@ -2,7 +2,9 @@
 Popular Algorithms written in C++.
 Here is a quick summary of what you can see here:
 - **Common Data Structures**
-  * Heap Data Structure.  Sometimes C++ STL Data Structure may not perform according to your program need so use this  explicitly to modify accroding to your program needs.
+  * Heap Data Structure.  
+    * Sometimes C++ STL Data Structure may not perform according to your program need so use this  explicitly to modify accroding to your program needs.
+   * Binary Search Tree Class
 - **Sorting Algorithms**
 - **Randomized Algorithms**
   * Quick Select Sort
